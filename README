@@ -1,0 +1,8 @@
+IR Blue for Google Glass
+
+This is a modification of the Android app for IR Blue written by MarDaSo. Mostly it is a drastic simplification of the app, with most of the bells and whistles removed. The incredibly minimal Glass interface just isn't suited to that level of complexity. I also changed the serial handling code to speed it up and make it more reliable.
+
+For now I've been asked by the original author not to release the source of my changes, a request which I will honor.
+
+
+Created by Matthew Dockrey (AKA Fish, AKA the Attoparsec guy): gfish@cyphertext.net
